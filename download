@@ -1,0 +1,5 @@
+data/
+.ipynb_checkpoints/
+__pycache__/
+extra_experiments_results.json
+.DS_Store
