@@ -1,3 +1,4 @@
+#Bu çalışma, ders kapsamında ekip olarak geliştirilen bir projenin bireysel olarak yeniden yapılandırılmış halidir.
 # Parfüm Markası Sınıflandırması
 
 Fragrantica verisindeki en popüler 10 markanın parfümlerini; koku notaları (Top / Middle / Base), cinsiyet, puan ve yıl bilgisinden tahmin eden bir makine öğrenmesi çalışması. Marka tahmini pratik bir uygulamadan çok, koku notalarının markaya özgü bir imza taşıyıp taşımadığını ölçen bir vekil (proxy) görevdir.
